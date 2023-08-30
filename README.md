@@ -1,10 +1,10 @@
 # README: Sales Prediction Model using Python
 
-## Submitted By: Jay Chopra
+## Submitted By: Taniya Minnat
 
 ## Intern as: Data Science
 
-## August Batch
+## July 25  Batch
 
 ## Aim
 
